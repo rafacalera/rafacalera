@@ -1,4 +1,4 @@
-### Oi! Eu sou o Rafael Calera 👋
+### Olá, prazer sou o Rafa 👋
 Tenho 19 anos e estou estudando Desenvolvimento de Sistemas na ETEC, sou apaixonado em tecnologia desde criança e quero trilhar minha carreira nessa área!
 
 ##
