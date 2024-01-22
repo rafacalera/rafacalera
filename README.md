@@ -1,5 +1,6 @@
 ### Olá, prazer sou o Rafa 👋
-Tenho 19 anos e estou estudando Desenvolvimento de Sistemas na ETEC, sou apaixonado em tecnologia desde criança e quero trilhar minha carreira nessa área!
+Tenho 19 anos e estou Engenharia de Software, sou apaixonado em tecnologia desde criança e sou estagiário na área
+
 
 ##
 
@@ -9,11 +10,9 @@ Tenho 19 anos e estou estudando Desenvolvimento de Sistemas na ETEC, sou apaixon
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ##
