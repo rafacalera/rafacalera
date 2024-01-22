@@ -1,5 +1,5 @@
 ### Olá, prazer sou o Rafa 👋
-Tenho 19 anos e estou Engenharia de Software, sou apaixonado em tecnologia desde criança e sou estagiário na área
+Tenho 19 anos e estou cursando Engenharia de Software, sou apaixonado em tecnologia desde criança e sou estagiário na área
 
 
 ##
